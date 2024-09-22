@@ -1,4 +1,4 @@
-#write a program to ask the user to enter the nsames of their 3 favourite movies and store them in a list.
+#write a program to ask the user to enter the names of their 3 favourite movies and store them in a list.
 
 movies = []
 mov1 = input("enter the 1st movie:")
